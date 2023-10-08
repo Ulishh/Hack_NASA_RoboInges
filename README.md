@@ -13,7 +13,6 @@ Our feasible idea takes up many of the ideas of our high-impact proposal, modify
   * Nanobots capable of stinguishing the fire (HIP).
   * Flight unit capable of coordinating and flying a variety of swarm drones for the loading of a point mass (HIP)
   * I.A. capable od detecting wildfires using satellite imagery [link](https://github.com/shrey24/wildfire-detection-from-satellite-images-ml#in-this-project-we-detect-forest-wildfire-from-given-satellite-images-i-have-used-cnn-with-a-training-dataset-of-2000-images)
-  * CO2 bombs or  retardants (FP).
   * Telegram Bot.
   * Software required for the image processing.
-  * Arduino code for the release of CO2 bombs.
+  * Arduino code for the release of the nanobots.
